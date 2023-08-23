@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RedditPrac1</string>
+    <string name="meme">Meme</string>
+    <string name="title">Daily Meme Dose</string>
+    <string name="no_internet">:( NO INTERNET</string>
+    <string name="try_refreshing">No internet connection found,\ntry refreshing.</string>
+    <string name="refresh">REFRESH</string>
+</resources>
